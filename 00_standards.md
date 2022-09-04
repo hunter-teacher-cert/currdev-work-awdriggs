@@ -1,12 +1,10 @@
-  * Pick 2 specific NY CS standards and describe a lesson/task/assignment that addresses your selected standards, explain how.
-  * You can use the same lesson/task/assignment for both, or different ones.
-  
+# Activity/Standard Match
 
 ## 7-8.CT.4
 Write a program using functions or procedures whose names or other documentation convey their purpose within the larger task.
 
 ### Activity
-This standard could be address by a refactoring activity where students are given an existing project and asked to refactor it. By replacing dense or repeated patterns with functions, students can build their own understanding of the utility of functions 
+This standard could be addressed by a refactoring activity where students are given an existing project and asked to refactor it. By replacing dense or repeated patterns with functions, students can build their own understanding of the utility of functions. 
 In Scratch, scripts tend to become bloated with lots of code blocks and it is hard to see what is happening. For example a simple jump pattern can be grouped in a function called "jump." This cleans up the code, making it easier to comprehend/debug.
  
 ![Jump script turned in a function](./imgs/jump.png)
